@@ -1,7 +1,7 @@
 ### Hi there, I'm Ondrej 👋
 
 - 🌱 I’m currently learning Laravel
-- ⚡ Fun fact: I have been involved in mechanical engineering for 18 years. Mainly metal welding and quality control. When I had a successful career, I decided to become a junior.
+- ⚡ Fun fact: I have been involved in mechanical engineering for 18 years. Mainly metal welding and quality control. When I had a successful career, I decided to become a junior Web developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OndrejVrto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
